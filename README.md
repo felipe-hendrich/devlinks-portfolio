@@ -41,7 +41,7 @@ O DevLinks é uma página de links personalizada, criada para praticar estrutura
 
 ## Projeto online
 
-- [Acesse o projeto finalizado, online](https://felipe-hendrich.github.io/projeto/)
+- [Acesse o projeto finalizado, online](https://felipe-hendrich.github.io/devlinks-portfolio/)
 
 ## Aprendizados
 
